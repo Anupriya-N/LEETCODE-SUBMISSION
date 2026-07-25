@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0010-regular-expression-matching) |
+| [0076-minimum-window-substring](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3536-maximum-product-of-two-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
