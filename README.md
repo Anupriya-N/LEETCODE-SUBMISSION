@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -62,5 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0100-same-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
