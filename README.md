@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0041-first-missing-positive) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0099-recover-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
