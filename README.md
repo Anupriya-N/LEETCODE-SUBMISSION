@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0041-first-missing-positive) |
 ## Hash Table
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
