@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
