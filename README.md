@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
+| [0877-stone-game](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0010-regular-expression-matching) |
+| [0877-stone-game](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0144-binary-tree-preorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
