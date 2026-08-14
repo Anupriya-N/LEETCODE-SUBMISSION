@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0126-word-ladder-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0126-word-ladder-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0076-minimum-window-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
