@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anupriya-N/LEETCODE-SUBMISSION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anupriya01-jpg/LEETCODE-SUBMISSION/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
